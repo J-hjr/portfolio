@@ -1,8 +1,11 @@
-# portfolio
+# Portfolio
 
-### Educatioin
+#### Technical Skills: Python, SQL, Java, Logic Pro
 
+## Education
+- B.A., Data Science | New York University (_Sept 2022 - Present_)
 
-### Personal Experience
+## Personal Experience
+**
 
-### Projects
+## Projects
